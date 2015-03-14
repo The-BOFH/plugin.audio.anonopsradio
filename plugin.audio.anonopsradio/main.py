@@ -51,7 +51,7 @@ li = xbmcgui.ListItem('Anonops Classical', iconImage='http://i.imgur.com/5f0lXXO
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 url = 'http://stream.anonops.com:8080/AnonCountry'
-li = xbmcgui.ListItem('Anonops Classical', iconImage='http://i.imgur.com/e9KO5c6.png')
+li = xbmcgui.ListItem('Anonops Country', iconImage='http://i.imgur.com/e9KO5c6.png')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 

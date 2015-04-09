@@ -26,32 +26,32 @@ xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 url = 'http://stream.anonops.com:8080/AnonNews'
-li = xbmcgui.ListItem('Anonops News', iconImage='http://i.imgur.com/QPqSTEd.png')
+li = xbmcgui.ListItem('ANONOPS NEWS', iconImage='http://i.imgur.com/QPqSTEd.png')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 url = 'http://stream.anonops.com:8080/AnonPop'
-li = xbmcgui.ListItem('Anonops Pop', iconImage='http://i.imgur.com/8g48ep6.png')
+li = xbmcgui.ListItem('ANONOPS POP', iconImage='http://i.imgur.com/8g48ep6.png')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 url = 'http://stream.anonops.com:8080/AnonRock'
-li = xbmcgui.ListItem('Anonops Rock', iconImage='http://i.imgur.com/jLimbbr.png')
+li = xbmcgui.ListItem('ANONOPS ROCK', iconImage='http://i.imgur.com/jLimbbr.png')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 url = 'http://stream.anonops.com:8080/AnonChill'
-li = xbmcgui.ListItem('Anonops Chill', iconImage='http://i.imgur.com/40MPQHw.png')
+li = xbmcgui.ListItem('ANONOPS CHILL', iconImage='http://i.imgur.com/40MPQHw.png')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 url = 'http://stream.anonops.com:8080/AnonWorld'
-li = xbmcgui.ListItem('Anonops World', iconImage='http://i.imgur.com/ALLwVzf.png')
+li = xbmcgui.ListItem('ANONOPS WORLD', iconImage='http://i.imgur.com/ALLwVzf.png')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 url = 'http://stream.anonops.com:8080/AnonClassic'
-li = xbmcgui.ListItem('Anonops Classical', iconImage='http://i.imgur.com/5f0lXXO.png')
+li = xbmcgui.ListItem('ANONOPS CLASSICAL', iconImage='http://i.imgur.com/5f0lXXO.png')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 url = 'http://stream.anonops.com:8080/AnonCountry'
-li = xbmcgui.ListItem('Anonops Country', iconImage='http://i.imgur.com/e9KO5c6.png')
+li = xbmcgui.ListItem('ANONOPS COUNTRY', iconImage='http://i.imgur.com/e9KO5c6.png')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 

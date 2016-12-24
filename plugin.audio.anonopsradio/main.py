@@ -11,7 +11,7 @@ xbmcplugin.setContent(addon_handle, 'audio')
 
 
 url = 'http://stream.anonops.com:8080/AnonOps' # Rather straightforward, here.
-li = xbmcgui.ListItem('Anonops Main', iconImage='http://i.imgur.com/o1XuBFO.png')  #Name, then the icon. I'm pleasantly surprised it accepts URLs!
+li = xbmcgui.ListItem('Anonops Main', iconImage='https://raw.githubusercontent.com/Based-Skid/plugin.audio.anonopsradio/master/plugin.audio.anonopsradio/o1XuBFO.png')  #Name, then the icon. I'm pleasantly surprised it accepts URLs!
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 #Bleh. It's a hacky hack to use Imgur, but it'll work for now. I plan to either do one of two things:
 #1) Figure out how to use the poorly documented system to add in the icon files to the code via the zip file
@@ -26,32 +26,32 @@ xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 url = 'http://stream.anonops.com:8080/AnonNews'
-li = xbmcgui.ListItem('ANONOPS NEWS', iconImage='http://i.imgur.com/QPqSTEd.png')
+li = xbmcgui.ListItem('ANONOPS NEWS', iconImage='https://raw.githubusercontent.com/Based-Skid/plugin.audio.anonopsradio/master/images/QPqSTEd.png')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 url = 'http://stream.anonops.com:8080/AnonPop'
-li = xbmcgui.ListItem('ANONOPS POP', iconImage='http://i.imgur.com/8g48ep6.png')
+li = xbmcgui.ListItem('ANONOPS POP', iconImage='https://raw.githubusercontent.com/Based-Skid/plugin.audio.anonopsradio/master/images/8g48ep6.png')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 url = 'http://stream.anonops.com:8080/AnonRock'
-li = xbmcgui.ListItem('ANONOPS ROCK', iconImage='http://i.imgur.com/jLimbbr.png')
+li = xbmcgui.ListItem('ANONOPS ROCK', iconImage='https://raw.githubusercontent.com/Based-Skid/plugin.audio.anonopsradio/master/images/jLimbbr.png')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 url = 'http://stream.anonops.com:8080/AnonChill'
-li = xbmcgui.ListItem('ANONOPS CHILL', iconImage='http://i.imgur.com/40MPQHw.png')
+li = xbmcgui.ListItem('ANONOPS CHILL', iconImage='https://raw.githubusercontent.com/Based-Skid/plugin.audio.anonopsradio/master/images/40MPQHw.png')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 url = 'http://stream.anonops.com:8080/AnonWorld'
-li = xbmcgui.ListItem('ANONOPS WORLD', iconImage='http://i.imgur.com/ALLwVzf.png')
+li = xbmcgui.ListItem('ANONOPS WORLD', iconImage='https://raw.githubusercontent.com/Based-Skid/plugin.audio.anonopsradio/master/images/ALLwVzf.png')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 url = 'http://stream.anonops.com:8080/AnonClassic'
-li = xbmcgui.ListItem('ANONOPS CLASSICAL', iconImage='http://i.imgur.com/5f0lXXO.png')
+li = xbmcgui.ListItem('ANONOPS CLASSICAL', iconImage='hhttps://raw.githubusercontent.com/Based-Skid/plugin.audio.anonopsradio/master/images/5f0lXXO.png')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 url = 'http://stream.anonops.com:8080/AnonCountry'
-li = xbmcgui.ListItem('ANONOPS COUNTRY', iconImage='http://i.imgur.com/e9KO5c6.png')
+li = xbmcgui.ListItem('ANONOPS COUNTRY', iconImage='https://raw.githubusercontent.com/Based-Skid/plugin.audio.anonopsradio/master/images/e9KO5c6.png')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 

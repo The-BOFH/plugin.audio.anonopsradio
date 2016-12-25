@@ -2,7 +2,7 @@
 # plugin.audio.anonopsradio
 Plugin for Kodi/XBMC to tune into Anonops Radio!
 
-#Current Version is 1.0.0
+Current Version is 1.0.0
 
 ## Installation Instructions:
 

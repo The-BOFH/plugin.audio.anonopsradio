@@ -22,7 +22,7 @@ xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 
- = 'http://stream.anonops.com:8080/AnonNews'
+url = 'http://stream.anonops.com:8080/AnonNews'
 li = xbmcgui.ListItem('ANONOPS NEWS', iconImage='https://raw.githubusercontent.com/Based-Skid/plugin.audio.anonopsradio/master/images/QPqSTEd.png')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 # Commit out Non Functional Stations

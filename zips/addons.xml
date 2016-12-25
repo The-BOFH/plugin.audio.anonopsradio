@@ -7,8 +7,8 @@
     <provides>audio</provides>
   </extension>
     <extension point="xbmc.addon.repository" name="AnonOps Radio Repo">
-	<info compressed="false">https://raw.githubusercontent.com/Based-Skid/plugin.audio.anonopsradio/master/zips/addons.xml</info>
-	<checksum>https://raw.githubusercontent.com/Based-Skid/plugin.audio.anonopsradio/master/zips/addons.xml.md5</checksum>
+	<info compressed="false">https://github.com/Based-Skid/plugin.audio.anonopsradio/raw/master/zips/addons.xml</info>
+	<checksum>https://github.com/Based-Skid/plugin.audio.anonopsradio/raw/master/zips/addons.xml.md5</checksum>
 	<datadir zip="true">https://github.com/Based-Skid/plugin.audio.anonopsradio/raw/master/zips/</datadir>
 </extension>
   <extension point="xbmc.addon.metadata">

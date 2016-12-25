@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.audio.anonopsradio" name="Anonops Radio Streams" version="0.7.0" provider-name="Anonymous.">
+<addon id="plugin.audio.anonopsradio" name="AnonOps Radio Streams" version="0.8.0" provider-name="Anonops, BOFH, Based_Skid">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="main.py">
     <provides>audio</provides>
   </extension>
+    <extension point="xbmc.addon.repository" name="AnonOps Radio Repo">
+	<info compressed="false">https://raw.githubusercontent.com/Based-Skid/plugin.audio.anonopsradio/master/zips/addons.xml</info>
+	<checksum>https://raw.githubusercontent.com/Based-Skid/plugin.audio.anonopsradio/master/zips/addons.xml.md5</checksum>
+	<datadir zip="true">https://github.com/Based-Skid/plugin.audio.anonopsradio/raw/master/zips/</datadir>
+</extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Anonops Radio</summary>
-    <description lang="en">RadioAnonops Radio streams.</description>
+    <summary lang="en">AnonOps Radio</summary>
+    <description lang="en">An Unoffical Kodi Addon for playing Radio AnonOps streams.</description>
     <disclaimer lang="en"></disclaimer>
     <language></language>
     <platform>all</platform>

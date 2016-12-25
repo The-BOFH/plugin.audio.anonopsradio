@@ -1,5 +1,5 @@
 <addons>
-<addon id="plugin.audio.anonopsradio" name="AnonOps Radio Streams" version="1.0.0" provider-name="Anonops, BOFH, Based_Skid">
+<addon id="plugin.audio.anonopsradio" name="AnonOps Radio Streams" version="1.0.1" provider-name="Anonops, BOFH, Based_Skid">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>

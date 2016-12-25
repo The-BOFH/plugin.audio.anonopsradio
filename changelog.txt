@@ -1,0 +1,6 @@
+1.0.0
+Repo Update Test
+
+0.8.0
+Updated imgur links and changed them to load from this git
+Added in Repository Extension to Give this Addon automatic Updates in Kodi

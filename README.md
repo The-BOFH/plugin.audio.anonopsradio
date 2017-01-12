@@ -14,3 +14,6 @@ Current Version is 1.0.0
 Then, go to your Music Addons section, open Anonops Radio, and select the stream you want to tune into.
 
 Enjoy!
+
+
+Huge shoutout to [Based-Skid](https://github.com/Based-Skid) for helping update it, and start laying groundwork for more features!
